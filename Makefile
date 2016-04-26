@@ -1,5 +1,5 @@
 # Source doc tarballs
-TANGRAM = https://github.com/tangrams/tangram-docs/archive/gh-pages.tar.gz
+TANGRAM = https://github.com/tangrams/tangram-docs/archive/meetar/headings-fix.tar.gz
 EXTRACTS = https://github.com/mapzen/metroextractor-cities/archive/master.tar.gz
 VALHALLA = https://github.com/valhalla/valhalla-docs/archive/master.tar.gz
 VECTOR = https://github.com/mapzen/vector-datasource/archive/v0.9.1.tar.gz
